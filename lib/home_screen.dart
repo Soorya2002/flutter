@@ -28,7 +28,7 @@ class HomeScreen extends StatelessWidget {
                     const  SizedBox(height: 200),
                     Expanded(
                       child: Image.asset('assets/assets/images/quiz-logo.png',
-                      width: 250,
+                      width: 260,
                       color:const Color.fromARGB(150, 255, 255, 255) ,),
                     ),
                     SizedBox(child: 
